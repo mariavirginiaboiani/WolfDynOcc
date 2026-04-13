@@ -7,6 +7,6 @@ The dataset integrates detection/non-detection (1/0) data with environmental and
 
 This repository contains R and NIMBLE scripts adapted from the framework developed in 'Changing patterns of colonisation and persistence during the wolf recolonisation of the human-dominated Italian alpine region' by Boiani Maria Virginia, Dupont Pierre, Bischof Richard, Friard Olivier, Bisi Francesco, Bombieri Giulia, Calderola Sonia, Carolfi Sabrina, Chioso Cristian, Corlatti Luca, Fattori Umberto, Ferrari Piero, Filacorda Stefano, Geary Matt, Molinari Paolo, Pernechele Emanuele, Righetti Davide, Tomasella Michela, Truc Fabrizio, Avanzinelli Elisa, von Hardenberg Achaz & Marucco Francesca in Ecography.
 
-RData file has all input data used in the Nimble framework while DynOccScript.r is the script with the modeling framework.
+RData file has all input data used in the Nimble framework while DynOccScript.r is the script with the modeling code.
 
 
