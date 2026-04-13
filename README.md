@@ -9,4 +9,5 @@ This repository contains R and NIMBLE scripts adapted from the framework develop
 
 RData file has all input data used in the Nimble framework while DynOccScript.r is the script with the modeling code.
 
+<a href="https://doi.org/10.5281/zenodo.19556977"><img src="https://zenodo.org/badge/1209554827.svg" alt="DOI"></a>
 
